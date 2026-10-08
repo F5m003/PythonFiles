@@ -1,7 +1,7 @@
 import os, discord
 from discord.ext import commands
 
-token = input("Enter Token: ")
+token = input("1557771574352937061")
 client = commands.Bot(command_prefix=commands.when_mentioned_or("$"))
 os.system('cls')
 os.system(f'autotyper')
